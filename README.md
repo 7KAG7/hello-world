@@ -1,2 +1,3 @@
 # hello-world
-my first respository
+my first repo
+changed repository to repo cause its sounds cooler that way
